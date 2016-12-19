@@ -1,0 +1,39 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFoundPresenceFailed: "Hmd Not Found Presence Failed (126)"!
+ 
+(Filename:  Line: 771)
+
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8144 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.114 seconds
+Platform assembly: C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vr\Documents\GitHub\ChristmasGame\Testbuild_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFoundPresenceFailed: "Hmd Not Found Presence Failed (126)"!
+ 
+(Filename:  Line: 771)
+
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFoundPresenceFailed: "Hmd Not Found Presence Failed (126)"!
+ 
+(Filename:  Line: 771)
+
+UnloadTime: 0.669124 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 605c -> priority: 1 
+  Thread -> id: e3c8 -> priority: 1 
